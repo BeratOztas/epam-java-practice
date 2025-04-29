@@ -3,6 +3,6 @@ package com.beratoztas.practice;
 public class TestClass {
 
 	public static void main(String[] args) {
-		System.out.println("This is a test commit");
+		System.out.println("Hello AutoCodeee");
 	}
 }
